@@ -17,5 +17,4 @@ switch(today){
         break;
 }
 
-console.log("A")
-
+// Mama ai tha onak chasta korci but pari nai 
